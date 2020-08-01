@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/feedback/FeedbackWebPart.js",
+      "manifest": "./src/webparts/feedback/FeedbackWebPart.manifest.json",
+      "outputPath": "./dist/feedback-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "FeedbackWebPartStrings": "webparts/feedback/loc/{locale}.js"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Feedback Web Part",
+    "id": "34a45639-8228-4c58-9f23-1ea5ebd26f3e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/feedback.sppkg"
+  }
+}

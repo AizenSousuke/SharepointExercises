@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.10.0",
+    "libraryName": "feedback",
+    "libraryId": "34a45639-8228-4c58-9f23-1ea5ebd26f3e",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
